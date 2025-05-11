@@ -1,0 +1,17 @@
+setup.py
+Student_marks_Prediction.egg-info/PKG-INFO
+Student_marks_Prediction.egg-info/SOURCES.txt
+Student_marks_Prediction.egg-info/dependency_links.txt
+Student_marks_Prediction.egg-info/requires.txt
+Student_marks_Prediction.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/components/Data_ingestion.py
+src/components/Data_transformation.py
+src/components/__init__.py
+src/components/model_trainer.py
+src/components/utils.py
+src/pipelines/__init__.py
+src/pipelines/predict_pipe.py
+src/pipelines/train_pipeline.py

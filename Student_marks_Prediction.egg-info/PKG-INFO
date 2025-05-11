@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: Student-marks-Prediction
+Version: 0.0.1
+Author: Prakhar Batwal
+Author-email: prakharbatwal517@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

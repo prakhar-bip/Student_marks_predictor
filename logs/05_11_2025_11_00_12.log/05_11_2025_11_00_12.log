@@ -1,0 +1,11 @@
+[2025-05-11 11:00:13,718] 24 root - INFO - Entered the data ingestin method
+[2025-05-11 11:00:13,721] 28 root - INFO - read the dataset as dataframe
+[2025-05-11 11:00:13,728] 43 root - INFO - Ingestion of data is completed
+[2025-05-11 11:00:13,760] 68 root - INFO - Reading of train and test data is completed
+[2025-05-11 11:00:13,760] 69 root - INFO - obtaining preprocessing object
+[2025-05-11 11:00:13,761] 49 root - INFO - Categorical columns : ['gender', 'race/ethnicity', 'parental level of education', 'test preparation course', 'lunch']
+[2025-05-11 11:00:13,761] 50 root - INFO - numerical columns : ['reading score', 'writing score']
+[2025-05-11 11:00:13,762] 81 root - INFO - Applying preprocessing object on traing and test dataframe
+[2025-05-11 11:00:13,773] 93 root - INFO - Saved preprocessing object
+[2025-05-11 11:00:13,774] 31 root - INFO - Splitting train and test input data
+[2025-05-11 11:07:13,858] 113 root - INFO - Best model found
